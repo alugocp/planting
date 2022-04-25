@@ -16,6 +16,8 @@ This file is for crop production-related research.
 - Tomatillo, peas, peppers
 - Tomatillo, carrots, onions
 - Squash, nasturtium, radish
+- Pak choi, beets, bush beans
+- Ground cherry, marigold, basil
 
 ### Sources
 - [Best and Worst Companion Plants for Tomatoes](https://www.thespruce.com/companion-plants-for-tomatoes-1403289)
@@ -26,6 +28,9 @@ This file is for crop production-related research.
 - [Watermelon Companion Planting Guide](https://www.masterclass.com/articles/watermelon-companion-planting-guide)
 - [Eggplant Companion Planting: 9 Plants to Grow With Eggplant](https://www.masterclass.com/articles/eggplant-companion-guide)
 - [Companion Planting](https://www.westcoastseeds.com/blogs/garden-wisdom/companion-planting)
+- [About Growing Bok Choy Brassica rapa](https://nicksgardencenter.com/gardening-blog/plants/bok-choy/)
+- [Beets Companion Planting Guide: 6 Plants to Grow With Beets](https://www.masterclass.com/articles/beets-companion-planting-guide)
+- [How to Grow Ground Cherry Plants](https://howtogroweverything.com/how-to-grow-ground-cherry-plants)
 
 ## Raised Bed Design
 ### Hugelkultur
