@@ -28,7 +28,7 @@ The research scope of this project includes the following.
 - [x] Research safe composter design and compostable materials
 - [x] Find native trees, crops, flowers and grasses to grow
 - [x] Identify traditional companion crop methods
-- [ ] Identify plants that help shape or retain soil (lavender, marigolds, etc)
+- [x] Identify plants that help shape or retain soil (lavender, marigolds, etc)
 - [ ] Canvas around the street to see who else is interested
 - [ ] Look up water wicking and auto-watering strategies
 - [ ] Find out how to make vegetable char

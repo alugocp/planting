@@ -2,8 +2,13 @@
 This file is for native ecosystem-related research.
 There are a list of Indigenous farming methods [here](https://www.almanac.com/native-american-gardening-techniques).
 
+## Miscellaneous Resources
+- A list of [Indigenous farming practices](https://www.almanac.com/native-american-gardening-techniques)
+- Some [native plants](https://www.americanmeadows.com/best-plants-for-clay-soil) that like clay soil
+
 ## 3 Sisters Gardening
 Source: [Native Seeds](https://www.nativeseeds.org/blogs/blog-news/how-to-grow-a-three-sisters-garden)
+
 This is a collection of traditional farming methods practiced throughout the Americas for centuries.
 The idea is to grow corn, squash and beans together since they compliment each other so well.
 All three of these crops can also be dried out and eaten year-round, and they all compliment each other nutritionally.
