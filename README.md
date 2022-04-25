@@ -26,17 +26,17 @@ The research scope of this project includes the following.
 ### Research
 - [x] Learn about raised bed designs with cheap, safe, and sustainable materials
 - [x] Research safe composter design and compostable materials
+- [x] Find native trees, crops, flowers and grasses to grow
+- [x] Identify traditional companion crop methods
 - [ ] Identify plants that help shape or retain soil (lavender, marigolds, etc)
 - [ ] Canvas around the street to see who else is interested
-- [ ] Identify traditional companion crop methods
-- [ ] Find native trees, crops, flowers and grasses to grow
 - [ ] Look up water wicking and auto-watering strategies
 - [ ] Find out how to make vegetable char
 
 ### Initial tests at home
 - [x] Build a few bird houses
 - [x] Grow root vegetables with Ruth Stout method
-- [ ] Create giant composter in back yard
+- [x] Create giant composter in back yard
 - [ ] Make some bird feeders too
 - [ ] Build some raised beds using different methods
 - [ ] Identify a sun map of the houses I want to garden in
