@@ -2,22 +2,22 @@
 This file is for crop production-related research.
 
 ## Companion Crop Groups
-- Corn, squash, beans (Three Sisters)
-- Tomato, basil, garlic, parsley
-- Tomato, amaranth, cucumber
-- Carrots, chives, rosemary
-- Spinach, peas, radishes
-- Sunflower, peppers, onions
-- Sunflower, melons, lavender
-- Watermelon, basil, allium
-- Melon, marigold, nasturtium
-- Eggplant, kohlrabi, oregano
-- Eggplant, marigold, broccoli
-- Tomatillo, peas, peppers
-- Tomatillo, carrots, onions
-- Squash, nasturtium, radish
-- Pak choi, beets, bush beans
-- Ground cherry, marigold, basil
+- **Corn, squash, beans:** Three Sisters companionship method
+- **Tomato, basil, garlic, parsley:** Tomato upright in the middle with other crops around it
+- **Tomato, amaranth, cucumber:** Grow smaller cucumber varieties with amaranth as a support, with tomatoes around them
+- **Carrots, chives, rosemary:** Intercrop these in the ground, with enough space to not disturb on harvest
+- **Spinach, peas, radishes:** Use radishes to lure away leaf miners, and plant peas around spinach for ground cover and erosion protection
+- **Sunflower, peppers, onions:** Plant sunflowers in the middle with peppers and onions around them
+- **Sunflower, melons, lavender:** Sunflowers in the middle with melons around it and lavender outside of that
+- **Watermelon, basil, allium:** Plant basil and alliums surrounding the melons, leaving plenty of space
+- **Melon, marigold, nasturtium:** Try a few marigolds with melons around them, nasturtiums farther away to lure pests
+- **Eggplant, kohlrabi, oregano:** Eggplant bushes in the middle with kohlrabi around it and oregano growing in the space between
+- **Eggplant, marigold, broccoli:** Eggplant row in the middle with broccoli and marigolds on either side
+- **Tomatillo, peas, peppers:** Tomatillo row with peas to the East and peppers to the West
+- **Tomatillo, carrots, onions:** Tomatillos with carrots and onions around them
+- **Squash, nasturtium, radish:** Squash with radishes in between them and nasturtiums farther away to lure pests
+- **Pak choi, beets, bush beans:** Pak choi and beets planted around bush beans
+- **Ground cherry, marigold, basil:** Marigolds around ground cherries, with basil in the space between
 
 ### Sources
 - [Best and Worst Companion Plants for Tomatoes](https://www.thespruce.com/companion-plants-for-tomatoes-1403289)
