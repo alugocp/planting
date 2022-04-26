@@ -73,3 +73,28 @@ Burlap is made from the Jute plant.
 Sacks can be filled with dirt and used for planting, with a couple of advantages.
 For one, the weave of the sack allows for better aeration of your soil.
 Not everything can be grown in a burlap sack due to size constraints, but it seems really good for herbs. It's also good for a few popular vegetables such as potatoes, peppers and tomatoes [[source]](https://homegrownfun.com/burlap-sacks-in-garden-grow-vegetables-in-bags/).
+
+## Corn
+Corn is one of the plants I'm most excited to grow.
+It will be a little tricky to grow corn because different varieties will cross-pollinate if they're grown too close together.
+The safe area to grow corn at is 100 - 1000ft apart per variety, but having a house in between varieties help.
+Corn varieties can also be grown 3 - 4 weeks apart so that they miss each other's tasseling stage.
+I have access to the following varieties:
+- Hopi Turquoise
+- Hopi Purple
+- Montana Morada
+- Cherokee White Eagle
+- Dakota Black Popcorn
+- Burro Mountain Popcorn
+- Grinding Corn
+- Sweet Corn
+
+These all prefer temperatures of 75 - 80 F.
+Most corn requires 55 - 90 days of ideal temperature to fully mature (after which you'll have fertilized corn that can be used to grow more).
+I plan to grow corn varieties in 4 locations offset by 4 weeks per group, like so:
+- Week 1 (May):  Sweet Corn, Grinding Corn, Burro Mountain Popcorn, Dakota Black Popcorn (Fully mature by end of July)
+- Week 5 (June): Montana Morada, Cherokee White Eagle, Hopi Turquoise and Hopi Purple (Fully mature by end of August)
+
+### Sources
+- [Corn Growth Stages](https://www.thegreenpinky.com/corn-growth-stages/)
+- [Baker's Creek Heirloom Seeds](https://www.rareseeds.com/)
