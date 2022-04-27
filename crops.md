@@ -18,6 +18,7 @@ This file is for crop production-related research.
 - **Squash, nasturtium, radish:** Squash with radishes in between them and nasturtiums farther away to lure pests
 - **Pak choi, beets, bush beans:** Pak choi and beets planted around bush beans
 - **Ground cherry, marigold, basil:** Marigolds around ground cherries, with basil in the space between
+- **Rhubarb, beans, garlic:** Plant garlic around the rhubarb with beans to cover the space in between
 
 ### Sources
 - [Best and Worst Companion Plants for Tomatoes](https://www.thespruce.com/companion-plants-for-tomatoes-1403289)
@@ -31,6 +32,7 @@ This file is for crop production-related research.
 - [About Growing Bok Choy Brassica rapa](https://nicksgardencenter.com/gardening-blog/plants/bok-choy/)
 - [Beets Companion Planting Guide: 6 Plants to Grow With Beets](https://www.masterclass.com/articles/beets-companion-planting-guide)
 - [How to Grow Ground Cherry Plants](https://howtogroweverything.com/how-to-grow-ground-cherry-plants)
+- [Rhubarb: Good & Bad Companions For It In Your Permaculture Garden](https://redemptionpermaculture.com/rhubarb-good-bad-companions-for-it-in-your-permaculture-garden)
 
 ## Raised Bed Design
 ### Hugelkultur
